@@ -51,3 +51,58 @@ section{
     color: mediumseagreen;
 }
 
+#box-no1{
+    background-color: lightgrey;
+    width: 400px;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 8%;
+    margin-left: 10%;
+    
+}
+
+#box-no2{
+    background-color: linen;
+    width: 400px;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 8%;
+}
+
+#box-no3{
+    background-color: lightyellow;
+    width: 400px;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 8%;
+    margin-right: 10%;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img-box{
+    width: 180px;
+}
+
