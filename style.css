@@ -40,3 +40,14 @@ section{
     color: white;
     border-radius: 5px;
 }
+
+.mission-center{
+    max-width: 600px;
+    margin: auto;
+    
+}
+
+.text-color{
+    color: mediumseagreen;
+}
+
