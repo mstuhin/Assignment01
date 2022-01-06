@@ -104,6 +104,29 @@ section{
 }
   
 
+.half-width3{
+    width: 80%;
+    padding: 10%;
+    padding-bottom: 20px;
+   
+ 
+    
+}
+
+.half-width3 img{
+    width: 100px;
+    margin-left: 1%;
+    margin-top: 5%;
+   
+}
+
+.half-width4{
+    width: 90%;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+  
+
 
 
 
