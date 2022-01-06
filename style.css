@@ -80,29 +80,33 @@ section{
     
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .img-box{
     width: 180px;
 }
+
+
+
+
+
+.half-width2{
+    width: 55%;
+    padding: 10%;
+   
+ 
+    
+}
+
+.half-width2 img{
+    width: 110%;
+    margin-left: 12%;
+    margin-top: 5%;
+   
+}
+  
+
+
+
+
+
+
 
